@@ -1,0 +1,29 @@
+[
+  {
+    "filename": "Gdynia-180925_001.jpg",
+    "full": "/staticImages/Gdynia-180925_001.jpg",
+    "thumb": "/thumbnails/Gdynia-180925_001.jpg",
+    "width": 2731,
+    "height": 4096,
+    "aspectRatio": 0.666748046875,
+    "format": "jpeg"
+  },
+  {
+    "filename": "Gdynia-180925_002.jpg",
+    "full": "/staticImages/Gdynia-180925_002.jpg",
+    "thumb": "/thumbnails/Gdynia-180925_002.jpg",
+    "width": 2731,
+    "height": 4096,
+    "aspectRatio": 0.666748046875,
+    "format": "jpeg"
+  },
+  {
+    "filename": "Gdynia-180925_003.jpg",
+    "full": "/staticImages/Gdynia-180925_003.jpg",
+    "thumb": "/thumbnails/Gdynia-180925_003.jpg",
+    "width": 4096,
+    "height": 1714,
+    "aspectRatio": 2.3897316219369893,
+    "format": "jpeg"
+  }
+]
